@@ -1,1 +1,1 @@
-Contains capstone projects for both IBM Data Analytics and IBM Data Science certifications
+Contains capstone project for the IBM Data Science Certification
